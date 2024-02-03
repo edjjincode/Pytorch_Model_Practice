@@ -52,7 +52,7 @@ def make_datapath_list(phase = "train"):
 
 class HymenopteraDataset(data.Dataset):
     
-    def __init__(self, file_list, transform = None, phase = "train"):
+    def __init__(self, file_list, traSsform = None, phase = "train"):
         self.file_list = file_list
         self.transform = transform
         self.phase = phase

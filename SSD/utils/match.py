@@ -5,7 +5,7 @@ https://github.com/amdegroot/ssd.pytorch
 
 本章の実装はGitHub：amdegroot/ssd.pytorch [4] を参考にしています。
 MIT License
-Copyright (c) 2017 Max deGroot, Ellis Brown
+Copyright (c) 2017 Max deGroot, Ellis BrownS
 
 """
 
